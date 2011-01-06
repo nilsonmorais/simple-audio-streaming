@@ -1,0 +1,12 @@
+Simple Audio Streaming.
+
+This script captures audio using PulseAudio and encoding stream using Vorbis,
+Sending the result to a IceCast Server via Shout2Cast.
+
+Requires module Gstreamer http://search.cpan.org/~tsch/GStreamer-0.09/GStreamer.pm
+--
+
+Esse script captura o áudio usando PulseAudio e codifica esse fluxo com vorbis,
+Enviando o resultado para um servidor Icecast usando Shout2Cast.
+
+Requer módulo Gstreamer http://search.cpan.org/~tsch/GStreamer-0.09/GStreamer.pm
